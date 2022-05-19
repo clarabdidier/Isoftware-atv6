@@ -4,7 +4,7 @@
 ## Clone
 
 ```bash
-git clone git@github.com:clarabdidier/ISoftware-atv6.git
+git clone git@github.com:clarabdidier/Isoftware-atv6.git
 cd Software-atv6
 ```
 
