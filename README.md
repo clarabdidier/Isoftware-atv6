@@ -5,7 +5,7 @@
 
 ```bash
 git clone git@github.com:clarabdidier/Isoftware-atv6.git
-cd Software-atv6
+cd Isoftware-atv6
 ```
 
 ## Running
